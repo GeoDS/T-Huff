@@ -6,13 +6,16 @@
 ### Reference: Liang, Y., Gao, S., Cai, Y., Foutz, N. Z., & Wu, L. (2020). Calibrating the dynamic Huff model for business analysis using location big data. Transactions in GIS. 24(3), 1-23. DOI: 10.1111/tgis.12624. 
 arXiv preprint available at https://arxiv.org/abs/2003.10857.
 
-### More POI Visit Data: SafeGraph (https://shop.safegraph.com/)
+### More POI visit data: SafeGraph (https://shop.safegraph.com/)
 
+### Considering the temporal visit patterns
+<img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_HourlyPlot.png"
+     alt="Preiction vs. Actual"
+     style="float: left; margin-right: 10px;" width="600"  />
+
+### Using Huff models for the store visit probability predictions and constructing market share areas
 <img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_prediction.jpg"
      alt="Preiction vs. Actual"
      style="float: left; margin-right: 10px;" width="600" />
 
-### Considering the temporal visit changes
-<img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_HourlyPlot.png"
-     alt="Preiction vs. Actual"
-     style="float: left; margin-right: 10px;" width="600"  />
+

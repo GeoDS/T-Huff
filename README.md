@@ -18,4 +18,17 @@ arXiv preprint available at https://arxiv.org/abs/2003.10857.
      alt="Preiction vs. Actual"
      style="float: left; margin-right: 10px;" width="600" />
 
-
+### Reference
+```
+@article{liang2020calibrating,
+  title={Calibrating the dynamic Huff model for business analysis using location big data},
+  author={Liang, Yunlei and Gao, Song and Cai, Yuxin and Foutz, Natasha Zhang and Wu, Lei},
+  url={arXiv preprint arXiv:2003.10857},
+  journal={Transactions in GIS},
+  year={2020}
+  volume={24},
+  number={3},
+  pages={1--23},
+  publisher={Wiley Online Library}
+}
+```

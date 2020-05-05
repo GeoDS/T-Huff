@@ -7,3 +7,8 @@ arXiv preprint available at https://arxiv.org/abs/2003.10857.
 <img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_prediction.jpg"
      alt="Preiction vs. Actual"
      style="float: left; margin-right: 10px;" />
+
+### considering the temporal visit changes
+<img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_HourlyPlot.png"
+     alt="Preiction vs. Actual"
+     style="float: left; margin-right: 10px;" />

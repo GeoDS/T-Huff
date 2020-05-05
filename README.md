@@ -4,7 +4,7 @@
 
 `./data/` contains the data file to run the traditional and dynamic Huff models.
 
-### Reference: Liang, Y., Gao, S., Cai, Y., Foutz, N. Z., & Wu, L. (2020). Calibrating the dynamic Huff model for business analysis using location big data. Transactions in GIS. 24(3), 1-23. DOI: 10.1111/tgis.12624. 
+Reference: Liang, Y., Gao, S., Cai, Y., Foutz, N. Z., & Wu, L. (2020). Calibrating the dynamic Huff model for business analysis using location big data. Transactions in GIS. 24(3), 1-23. DOI: 10.1111/tgis.12624. 
 arXiv preprint available at https://arxiv.org/abs/2003.10857.
 
 ### More POI visit data: SafeGraph (https://shop.safegraph.com/)

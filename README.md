@@ -12,7 +12,12 @@ The Huff model has been widely used in location-based business analysis for deli
 
 ### More POI visit data: SafeGraph (https://shop.safegraph.com/)
 
-### Considering the temporal visit patterns
+### Considering the spatial interaction from different neighborhoods and temporal visit patterns
+
+<img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/05/map_arc_wholefoods.png"
+     alt="Spatial Visit Patterns"
+     style="float: left; margin-right: 10px;" width="600"  />
+     
 <img src="https://geods.geography.wisc.edu/wp-content/uploads/2020/04/tgis12624_HourlyPlot.png"
      alt="Preiction vs. Actual"
      style="float: left; margin-right: 10px;" width="600"  />

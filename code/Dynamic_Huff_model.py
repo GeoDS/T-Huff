@@ -278,8 +278,7 @@ mx_hf,cor = CorrHourlyLocation(mx,alpha,beta,att_field,location_name,"popularity
 cor
 
 import pandas as pd
-infile = "poi_cbg_mx.csv"
+infile = "la_wholefoods.csv"
 mx = pd.read_csv(infile,dtype={'census_block_group': str})
 mx=mx[(mx['city']=='los angeles') & (mx['location_name']=='Whole Foods Market')]
-mx.to_csv('la_wholefoods.csv',index=None)
 mx.head()
